@@ -10,7 +10,7 @@
 ### EditText Validation 
 <img src="images/3.png" alt="EditText Validation" width="250" height="450">
 
-###Update and Delete 
+### Update and Delete 
 <img src="images/4.png" alt="Update and Delete" width="250" height="450">
 
 
