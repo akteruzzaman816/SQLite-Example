@@ -1,8 +1,9 @@
-SQLite-Example
+#SQLite-Example
 
 **Features
-1. Insert into Database
-images/1.png
+1.Insert into Database
+![Insert into database](images/1.png)
+
 
 
 
